@@ -1,0 +1,140 @@
+{
+  "searchBuses": [
+    {
+      "Coimbatore": [
+        {
+          "id": 1001,
+          "destination": "Bangalore",
+          "travels":"ABC travels",
+          "type1":"AC", 
+          "departuretime":"10:30AM", 
+          "arrivaltime":"05:30PM", 
+          "price":"1000",
+          "rating" : "4.5",
+          "timetaken" : "07h 05m"
+        },
+        {
+          "id": 1100,
+          "destination": "Bangalore",
+          "travels":"KANYA Travels",
+          "type1":"Non AC", 
+          "departuretime":"10:35AM", 
+          "arrivaltime":"05:40PM", 
+          "price":"900",
+          "rating" : "4.5",
+          "timetaken" : "07h 05m"
+        },
+        {
+          "id": 2242,
+          "destination": "Salem",
+          "travels":"KANYA Travels",
+          "type1":"Non AC", 
+          "departuretime":"10:35AM", 
+          "arrivaltime":"05:40PM", 
+          "price":"900",
+          "rating" : "4.5",
+          "timetaken" : "07h 05m"
+        },
+        {
+          "id": 2242,
+          "destination": "Erode",
+          "travels":"MONKEY Travels",
+          "type1":"AC", 
+          "departuretime":"11:35PM", 
+          "arrivaltime":"05:40AM", 
+          "price":"400",
+          "rating" : "4.5",
+          "timetaken" : "07h 05m"
+        }
+        
+      ],
+      "Chennai": [
+        {
+          "id": 1310,
+          "destination": "Erode",
+          "rating" : "4.5",
+          "timetaken" : "07h 05m",
+          "arrivaltime": "08:15AM",
+          "departuretime":"03:00PM",
+          "type1":"Non AC",
+          "travels":"ABC travels",
+          "price":"400"
+        },
+        {
+          "id": 1220,
+          "destination": "Erode",
+          "rating" : "4.5",
+          "timetaken" : "07h 05m",
+          "arrivaltime": "10:00AM",
+          "departuretime":"06:00PM",
+          "type1":"Non AC",
+          "travels":"ABC travels",
+          "price":"440"
+        },
+        {
+          "id": 1310,
+          "destination": "Coimbatore",
+          "rating" : "4.5",
+          "timetaken" : "07h 05m",
+          "arrivaltime": "12:15PM",
+          "departuretime":"08:00PM",
+          "type1":"AC",
+          "travels":"ABC travels",
+          "price":"800"
+        }
+      ],
+      "Madurai": [
+        {
+          "id": 1310,
+          "destination": "Erode",
+          "rating" : "4.5",
+          "timetaken" : "07h 05m",
+          "arrivaltime": "08:15AM",
+          "departuretime":"03:00PM",
+          "type1":"Non AC",
+          "travels":"ABC travels",
+          "price":"400"
+        },
+        {
+          "id": 2242,
+          "destination": "Banglore",
+          "rating" : "4.5",
+          "timetaken" : "07h 05m",
+          "travels":"MONKEY Travels",
+          "type1":"AC", 
+          "departuretime":"11:35PM", 
+          "arrivaltime":"05:40AM", 
+          "price":"600"
+        },
+        {
+          "id": 2942,
+          "destination": "Banglore",
+          "travels":"KANYA Travels",
+          "rating" : "4.5",
+          "timetaken" : "07h 05m",
+          "type1":"AC", 
+          "departuretime":"11:35AM", 
+          "arrivaltime":"05:40PM", 
+          "price":"650"
+        }
+      ]
+    }
+  ],
+  "loginCreds": [
+    {
+      "id": 1,
+      "email": "monika@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "email": "abc@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 3,
+      "email": "adsfasdf",
+      "password": "1324"
+    }
+  ]
+}
